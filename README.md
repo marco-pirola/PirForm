@@ -52,9 +52,9 @@ No Python installation is required.
 
 ![PirForm Level 1](screenshots/level1.png)
 
-### Level 2
+### Level 3
 
-![PirForm Level 2](screenshots/level2.png)
+![PirForm Level 2](screenshots/level3.png)
 
 ## 👨‍💻 Author
 
