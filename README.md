@@ -44,7 +44,17 @@ No Python installation is required.
 
 ## 📸 Screenshots
 
-Screenshots will be added here.
+### Main Menu
+
+![PirForm Main Menu](screenshots/menu.png)
+
+### Level 1
+
+![PirForm Level 1](screenshots/level1.png)
+
+### Level 2
+
+![PirForm Level 2](screenshots/level2.png)
 
 ## 👨‍💻 Author
 
